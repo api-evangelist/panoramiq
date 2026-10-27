@@ -64,7 +64,7 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Panoramiq Insights is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+Panoramiq Insights provides analytics and insights tools for Instagram and social media platforms, helping businesses track engagement, audience demographics, and performance metrics. The company offers a dashboard and API to integrate social data into marketing workflows, aiming to simplify data-driven decisions for brands and agencies.
 
 **Areas:** Company
 
